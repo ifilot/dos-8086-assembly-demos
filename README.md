@@ -1,4 +1,4 @@
-# 8086 Demos
+# DOS 8086 Assembly Demos
 
 This repository contains a collection of 8086 assembly programs for MS-DOS
 type of computers.
