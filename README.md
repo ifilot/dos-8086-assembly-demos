@@ -1,7 +1,8 @@
 # DOS 8086 Assembly Demos
 
-This repository contains a collection of 8086 assembly programs for MS-DOS
-type of computers.
+This repository contains a collection of very small and simple 8086 assembly
+programs for MS-DOS type of computers. These programs perform a single task
+which would normally be embedded into a larger program.
 
 ## Overview
 
@@ -9,6 +10,8 @@ type of computers.
 * [printdot](printdot): Enters VGA mode and prints all VGA colors in a 16 x 16 grid
 * [fileio](fileio): Open a file and read its contents which is shown on the terminal screen
 * [image](image): Load an image file and show it on the screen
+* [crc16](crc16): Perform a CRC16 on a small snippet of data
+* [savefile](savefile): Save a snippet of data to a file
 
 ## Screenshots
 
